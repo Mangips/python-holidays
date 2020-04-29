@@ -69,6 +69,9 @@ class Greece(HolidayBase):
 class GR(Greece):
     pass
 
+class EL(Greece):
+    pass
+
 
 class GRC(Greece):
     pass

@@ -30,7 +30,7 @@ from .european_central_bank import EuropeanCentralBank, ECB, TAR
 from .finland import Finland, FI
 from .france import France, FRA
 from .germany import Germany, DE
-from .greece import Greece, GR
+from .greece import Greece, GR, EL
 from .honduras import Honduras, HND
 from .hongkong import HongKong, HK
 from .hungary import Hungary, HU
@@ -41,6 +41,7 @@ from .italy import Italy, IT
 from .israel import Israel, ISR, IL
 from .japan import Japan, JP
 from .kenya import Kenya, KE
+from .latvia import Latvia, LV
 from .lithuania import Lithuania, LT
 from .luxembourg import Luxembourg, LU
 from .mexico import Mexico, MX
@@ -53,6 +54,7 @@ from .paraguay import Paraguay, PY
 from .peru import Peru, PE
 from .poland import Poland, Polish, PL
 from .portugal import Portugal, PT, PortugalExt, PTE
+from .romania import Romania, RO
 from .russia import Russia, RU
 from .serbia import Serbia, RS
 from .singapore import Singapore, SG
